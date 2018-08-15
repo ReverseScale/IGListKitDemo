@@ -1,6 +1,14 @@
 # IGListKitDemo
 Use the Instagram open source library IGListKit to select common examples
 
+Podfile
+
+```
+pod 'IGListKit'
+```
+
+
+
 1. Pulldown refresh implementation
 
 2. Image loading implementation

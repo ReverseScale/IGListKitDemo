@@ -1,13 +1,13 @@
 # IGListKitDemo
 Use the Instagram open source library IGListKit to select common examples
 
-Podfile
+Podfile:
 
 ```
 pod 'IGListKit'
 ```
 
-
+Demo:
 
 1. Pulldown refresh implementation
 
